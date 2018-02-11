@@ -11,7 +11,7 @@ It was also part of Introduction to Programming
 Nanodegree.
 
 You can access the created page;
-https://alpinistpanda.github.io/AlpinistPanda/entertainmentindex.html
+https://alpinistpanda.github.io/AlpinistPanda/entertainment/index.html
 
 (Note: trailer function doesnot work here!!)
 
