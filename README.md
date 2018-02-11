@@ -11,6 +11,19 @@ It was also part of Introduction to Programming
 Nanodegree.
 
 You can access the created page;
-https://alpinistpanda.github.io/ud036_StarterCode/index.html
+https://alpinistpanda.github.io/AlpinistPanda/entertainmentindex.html
 
 (Note: trailer function doesnot work here!!)
+
+To open it in your local environment;
+
+With the terminal:
+
+Clone the directory (git clone https://github.com/AlpinistPanda/entertainment)
+Navigate into the directory cd repository_name
+Run python entertainment_center.py
+
+With IDLE:
+
+Open IDLE
+In the menu bar click on Run -> Run Module or press F5 on your keyboard

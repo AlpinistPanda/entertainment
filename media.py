@@ -1,5 +1,7 @@
 import webbrowser
-class Movie():
+
+
+class Movie:
     """Movie class
     Movie class with title, storyline, poster, trailer and director information.
     Attributes:
@@ -9,8 +11,11 @@ class Movie():
         trailer_youtube: A string storing url for youtube trailer of the movie.
         director: A string for storing name of the director of the movie,
     """
-    def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube, director):
-        """Inits Movie Class"""
+    def __init__(
+        self, movie_title, movie_storyline, poster_image,
+            trailer_youtube, director):
+
+        """Initialize Movie Class"""
         self.title = movie_title
         self.storyline = movie_storyline
         self.poster_image_url = poster_image
